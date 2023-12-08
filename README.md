@@ -63,10 +63,13 @@ Se aplico el principio de polimorfismo, porque en la clase padre la función “
 
  ![code3](codePoo3.png)
 
-
 (Imagen de la clase padre (CPersona)).
 
+
+
  ![code4](codePoo4.png)
+
+ 
 De esta manera, podemos decir que hemos utilizado polimorfismo en nuestro trabajo final.
 
 
