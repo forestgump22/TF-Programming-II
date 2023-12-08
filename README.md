@@ -1,7 +1,7 @@
 # TF Programming II
  A videogame inspired in Among Us. It is different because of the escenarios and enemies in the map. There are 3 modes inside the game.
 
- ![2 mode in the game](game.png)
+ ![game](game.png)
 
  
 # UPC Logo
